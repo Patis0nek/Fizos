@@ -38,6 +38,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements f
 I would like to express my gratitude to my teacher for inspiring and motivating me to develop this project. Their struggles in the random selection process encouraged me to create a solution that could benefit not only them but also other teachers facing similar challenges.
 
 ## Contact
-If you have any questions, suggestions, or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at patrykkuna.com.
+If you have any questions, suggestions, or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at https://patrykkuna.com.
 
 Thank you for using the Random Selection Number Website for Teachers!
