@@ -1,4 +1,4 @@
-# Random Selection Number Website for Teachers
+# **FIZOS** Random Selection Number Website for Teachers
 This project was developed to assist teachers in the random selection of students for short tests using a random number generator. The goal was to streamline and expedite the selection process for teachers who faced challenges in manually selecting students.
 
 ## Purpose
@@ -40,4 +40,4 @@ I would like to express my gratitude to my teacher for inspiring and motivating 
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to reach out to me at kuna.patryk@gmail.com or visit my portfolio site at https://patrykkuna.com.
 
-Thank you for using the Random Selection Number Website for Teachers!
+Thank you for using the **FIZOS** Random Selection Number Website for Teachers!
