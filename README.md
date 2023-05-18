@@ -25,7 +25,7 @@ To integrate Firebase into your project, follow these steps:
 ## Getting Started
 To use this tool, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/random-selection-number-website.git
+1. Clone the repository: git clone https://github.com/Patis0nek/Fizos.git
 2. Navigate to the project directory: cd random-selection-number-website
 3. Install the dependencies: npm install
 4. Start the development server: npm start
